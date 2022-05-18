@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "21c7b7e4-15f7-4418-b31c-37e74567505e": {
+      "ProjectGuid": "21c7b7e4-15f7-4418-b31c-37e74567505e",
+      "DisplayName": "SignalRChat",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
